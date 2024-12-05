@@ -1,4 +1,4 @@
-This github project was created to collect feedback and squash bugs for Linux Mint 22.
+This github project was created to collect feedback and squash bugs for Linux Mint 22.1.
 
 It is not a permanent project and it will be deleted after the release.
 
